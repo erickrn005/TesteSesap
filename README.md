@@ -51,5 +51,7 @@ Como Rodar o Programa:
 Após baixar os arquivos e colocá-los nas suas respectivas pastas, abra o NetBeans. Adicione as dependências mencionadas anteriormente no seu projeto Maven. Configure seu Gmail e Token de acesso no pacote CapturaeEnviodeEmail para que o envio de e-mails funcione corretamente. Em seguida, abra o pacote com o nome Interface e execute. Uma interface será aberta onde você preencherá todos os seus dados e enviará o formulário. Após o envio, todos os seus dados serão direcionados para o banco de dados e também enviados para o seu e-mail configurado no pacote CapturaeEnviodeEmail. Você deve exportar o arquivo do MySQL para obter acesso à tabela Curriculos e garantir que tudo funcione perfeitamente. O arquivo do banco de dados se encontra no e-mail junto com o link do repositório.
  
   Informações para Contato
+  
   E-mail: erickrn010@gmail.com
+  
   Telefone: 84987521106
